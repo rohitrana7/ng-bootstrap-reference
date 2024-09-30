@@ -68,6 +68,14 @@ If you have multiple projects and you want to target a specific application, you
 ng add @ng-bootstrap/ng-bootstrap --project myProject
 ```
 
+```
+npm install -g yarn
+```
+
+```
+ng serve ssr-app
+```
+<br>
 If you prefer not to use schematics and install everything manually, please refer to the
 [manual installation instructions](https://ng-bootstrap.github.io/#/getting-started#installation) on our website.
 
